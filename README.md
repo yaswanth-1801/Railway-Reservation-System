@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040499
+# Name: YASWANTH R
+# Date:  04/05/2026
 
 
 # AIM:
@@ -39,6 +39,8 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1038" height="850" alt="Screenshot 2026-05-26 092652" src="https://github.com/user-attachments/assets/29553487-25ad-4dac-98de-83ea386ad9da" />
+
 
 
 
@@ -60,6 +62,9 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+<img width="1036" height="839" alt="image" src="https://github.com/user-attachments/assets/b892236f-4717-4a2e-b5eb-99db129da214" />
+
 
 
 
